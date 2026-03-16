@@ -1,2 +1,2 @@
 # Character-Management-System
-This program would be used to keep track of characters in a tabletop game like D&D. It will allow the user to input changes made to a character and then save them to more easily keep track of characters stats and inventory.
+This program is used to keep track of characters in a tabletop game like D&D. It starts by bringing up a user input menu with multiple options available. The user starts by creating a new character and then changing different values, such as name or level. You can also add or remove items to an inventory, and delete old characters. All of this will be saved to a created txt file that it pulls from to display in the menu for better readability.
